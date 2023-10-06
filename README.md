@@ -1,5 +1,5 @@
 ## Github Status
-<div style="display:flex;flex-direction:row;justify-content:space-around;">
+<div style="display:flex;flex-direction:column;justify-content:space-around;">
 <a href="https://github.com/623059008">
   <img src="https://github-readme-stats-623059008.vercel.app/api?username=623059008" />
 </a>
